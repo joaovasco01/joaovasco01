@@ -1,9 +1,9 @@
 <h1 align="center">João Vasco 🇵🇹</h1>
 <h3 align="center">Teaching Assistant | Computer Science & Engineering | Data Science Researcher | Blockchain Enthusiast</h3>
 
-- 👉 Research **Intrusion Recovery & Digital Erasure**
-
 - 🎓 Bsc & Msc **Computer Science and Engineering**
+
+- 👉 Research **Intrusion Recovery & Digital Erasure**
 
 - 👉 Learning at the moment **Docker**
 
