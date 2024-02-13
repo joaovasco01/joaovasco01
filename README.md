@@ -5,8 +5,6 @@
 
 - 👉 Research **Intrusion Recovery & Digital Erasure**
 
-- 👉 Learning **Docker**
-
 - 👉 How to reach me **joao.vasco.sobral@tecnico.ulisboa.pt**
 
 - 👉 Know about my experiences [https://joaovasco01.github.io](https://joaovasco01.github.io)
